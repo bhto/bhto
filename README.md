@@ -1,44 +1,25 @@
-<div align="center">
+### Hi, I'm Bérenger! &nbsp;&nbsp;<sup>👾 &#12299; Web & Mobile Developer. Building modern apps & digital solutions. </sup>
 
-# bhto
+----
 
-Full-stack developer building web & mobile apps with a focus on  
-performance, simplicity and clean architecture.
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
+![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=c%2B%2B&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![frameworks & tools](https://img.shields.io/static/v1?label=&message=frameworks%20%26%20tools:&color=111&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=react%20%2F%20react%20native&color=36465D&logoColor=AAA&style=flat-square)
+![node.js](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=node.js&color=36465D&logoColor=AAA&style=flat-square)
+![tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=tailwind%20css&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20%2F%20RN-teal?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+**Junior Web & Mobile Software Developer** &#12299; _specialized in React Native, Node.js & modern application design_
+<br/>
+**CS Student** &#12299; _focused on Information Systems, Software Engineering & System Tooling_
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1000&color=56A3F7&center=true&width=400&lines=Building+clean%2C+scalable+applications;Web+%26+mobile+%E2%80%94+end+to+end)
+----
 
-</div>
+Portfolio : [Berenger Portfolio](https://berenger.vercel.app) 
 
----
-
-**Currently learning**
-
-`01` — **Advanced React & React Native** · patterns, performance, animations  
-`02` — **Scalable architecture** · monorepos, microservices, DDD  
-`03` — **API security & best practices** · auth, rate limiting, hardening  
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhto&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhto&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
-</p>
-
----
-
-<p align="right">
-  <a href="https://berenger.vercel.app">
-    <img src="https://img.shields.io/badge/berenger.vercel.app-↗-0d1117?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<br/>
+<sub>_Inspired by moertel https://github.com/moertel</sub>
